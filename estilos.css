@@ -40,7 +40,7 @@ a{
 /* clearfix */
 .clearfix::after,.clearfix::before{
     content: "";
-    clear: both
+    clear: both;
     display: table;
 }
 /* globals */
